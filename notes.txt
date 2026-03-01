@@ -1,0 +1,24 @@
+// major components : one programing language and one database
+// we go with node.js and mongodb
+// building javascript based backend and using third part api
+
+// main file structure for backend structure is
+
+// index app constant  : there are for directory
+
+
+following is for files
+// db : for database connection
+// models : for definign database 
+// controlers : for methods basically functions 
+// routers : api address , basically route for api
+// middlewares : discuss further
+// utils : utility function  we can say template for the reccuring code
+// more depends on project
+
+
+
+
+download the node.js
+
+
